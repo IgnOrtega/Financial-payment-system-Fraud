@@ -1,5 +1,5 @@
 # Acerca del proyecto:  
-Este proyecto consiste en clasificar una transacción electronica como "Fraude" o "No fraude". Para resolver este problema se usaron datos en que sus clases están desbalanceados. Por lo tanto, se deberán aplicar métodos apropiados para este contexto, como undersampling, oversamplig utilizando un muestreo aleatorio con repetición y SMOTE(un método que genera artificialmente nuevos datos de la clase minoritaria). Los atributos que se tienen para resolver este problema son:
+Este proyecto consiste en clasificar una transacción electronica como "Fraude" o "No fraude". Para resolver este problema se usaron datos en que sus clases están desbalanceadas. Por lo tanto, se deberán aplicar métodos apropiados para este contexto, como undersampling, oversamplig utilizando un muestreo aleatorio con repetición y SMOTE(un método que genera artificialmente nuevos datos de la clase minoritaria). Además, se usaron algoritmos de ML enfocados en este tipo de problemas como random forest y SVC para datos desbalanceados entre otros. Los atributos que se tienen para resolver este problema son:
 - intervalo de tiempo,
 - cliente,  
 - edad cliente,  
