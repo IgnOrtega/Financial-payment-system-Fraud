@@ -34,7 +34,7 @@ Paso 3) Para cargar el entorno debe ejecutar el archivo activate que está en la
 Paso 4) Una vez cargardo el entorno debe instalar las librerias necesarias, estas están en el archivo last_requirements.txt.
 Para instalar las librerias del archivo last_requirements.txt debe estar en el directorio del archivo y ejecutar:  
 ```bash
- pip install -r last_requirements.txt
+ pip install -r requirements.txt
 ```
 
 Paso 5) Para que el sistema reconozca el kernel creado debe ejecutar los siguientes comandos:  
